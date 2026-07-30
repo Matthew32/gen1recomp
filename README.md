@@ -199,6 +199,9 @@ getting started, a twelve-rung tutorial ladder, a cookbook, and the generated
 reference — lives on the
 [project wiki](https://github.com/bryanthaboi/gen1recomp/wiki).
 
+### Full Spanish Translation Mod
+A full Spanish translation of the entire game's dialogue is available as an officially bundled mod. You can download `full_spanish_translation.zip` directly from the [Releases](https://github.com/Matthew32/gen1recomp/releases) page. Just drop it into your `mods/` directory and enable it in the in-game Mod Manager (F10) to enjoy the game entirely in Spanish!
+
 Shipped example mods, one per kind of author, live in `[mods/](mods/)`.
 
 Maps can be edited in our own build of [Tiled](https://www.mapeditor.org),
