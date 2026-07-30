@@ -1,0 +1,9 @@
+# Item names: the English behind each key in lang/item_names.lua.
+# Reference only, and deliberately outside the mod: this
+# text comes out of the ROM, so it must not be shipped.
+
+"FIX_BADGE_1"	"FIX BADGE 1"
+"FIX_BADGE_2"	"FIX BADGE 2"
+"FIX_BALL"	"FIX BALL"
+"FIX_POTION"	"FIX POTION"
+"FIX_TM"	"FIX TM01"

@@ -1,0 +1,8 @@
+# Move names: the English behind each key in lang/move_names.lua.
+# Reference only, and deliberately outside the mod: this
+# text comes out of the ROM, so it must not be shipped.
+
+"FIX_CUT"	"FIX CUT"
+"FIX_EMBERISH"	"FIX EMBER"
+"FIX_SCRATCH"	"FIX SCRATCH"
+"FIX_TACKLE"	"FIX TACKLE"

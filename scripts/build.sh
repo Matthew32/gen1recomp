@@ -81,7 +81,7 @@ for required in tools/save-editor/App.lua tools/save-editor/Kit.lua \
                 tools/save-editor/panels/Party.lua \
                 tools/rom_manifest.json tools/rom_manifest_blue.json \
                 tools/rom_manifest_yellow.json; do
-  unzip -Z1 "$LOVE_FILE" | grep -qx "$required" \
+  unzip -Z1 "$LOVE_FILE" | grep -x "$required" > /dev/null \
     || fail "game.love is missing $required"
 done
 say "game.love: $(du -h "$LOVE_FILE" | cut -f1)"
